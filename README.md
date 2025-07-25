@@ -4,9 +4,9 @@
 **leandromjunior/leandromjunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 📝 I’m currently learning Swift Language
-- 🌱 Enthusiast of Computer Vision, Neural Language Processing, MLops and Docker
-- 💬 Feel free to ask me about Python, Machine Learning models and technology in general
+- 📝 I’m currently learning Swift
+- 🌱 Enthusiast of Machine Learning
+- 💬 Feel free to ask me about anything that is in this profile
 - 📫 How to reach me: lemottajr@hotmail.com
 
 
