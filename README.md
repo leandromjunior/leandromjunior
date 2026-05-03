@@ -8,9 +8,7 @@
 - 💬 Feel free to ask me about anything that is in this profile
 - 📫 How to reach me: lemottajr@hotmail.com
 
-![Top Langs](https://vercel.app)
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandromjunior&layout=compact)](https://github.com/leandromjunior/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandromjunior&layout=compact)](https://github.com/leandromjunior/github-readme-stats)
 
